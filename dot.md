@@ -1,4 +1,5 @@
 ```plantuml
+@startuml
 digraph name {
     "node1" -> "node2"
     subgraph name1 {
@@ -6,4 +7,5 @@ digraph name {
         "node4" -> "node2"
     }
 }
+@enduml
 ```
