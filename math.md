@@ -7,8 +7,11 @@ $$
 
 $\notin-不属于$
 
-$\subset-包含于$ $$\supset-包含$$
-
+$\subset-包含于$ $$\subseteq-包含$$
+$$\subsetneq$$
+$$\supset$$
+$$\supseteq$$
+$$\supsetneq$$
 $$
 a^r*a^s=a^r+a^s
 (a^r)^s=a^{rs}
