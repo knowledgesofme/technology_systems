@@ -7,7 +7,7 @@ $$
 
 $\notin-不属于$
 
-$\subset-包含于$ $$\supseteqq-真包含于$$
+$\subset-包含于$ $$\supset-包含$$
 
 $$
 a^r*a^s=a^r+a^s
