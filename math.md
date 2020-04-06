@@ -5,17 +5,18 @@ $$
 \in-属于
 $$
 
-$\notin-不属于$
+$$\notin-不属于$$
 
-$\subset-包含于$ $$\subseteq-包含$$
+$$\subset-包含于$$
+$$\subseteq-包含$$
 $$\subsetneq$$
 $$\supset$$
 $$\supseteq$$
 $$\supsetneq$$
 $$
-a^r*a^s=a^r+a^s
-(a^r)^s=a^{rs}
-(ab)^r=a^rb^r
+a^r*a^s=a^r+a^s$$$$
+(a^r)^s=a^{rs}$$$$
+(ab)^r=a^rb^r$$$$
 $$
 
 $$
